@@ -22,7 +22,7 @@ title: null
 email: randy@shoto.mobi
 description: null
 github:
-  is_project_page: false
+  is_project_page: true
 # this means to ignore newlines until "baseurl:"
 # Repo + website for fun & exploratory projects.
 # Write an awesome description for your new site here. You can edit this
